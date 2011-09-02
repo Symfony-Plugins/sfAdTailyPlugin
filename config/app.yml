@@ -1,0 +1,8 @@
+all:
+  ad_taily_plugin:
+    enabled:  false
+    template: <script type="text/javascript" id="AdTaily_Widget" src="http://static.adtaily.pl/widget.js#{$code}"></script>
+
+dev:
+  ad_taily_plugin:
+    template: AdTaily Widget {$code}
