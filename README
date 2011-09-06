@@ -1,8 +1,8 @@
-# AdTaily integration Plug-in #
+# AdTaily integration Plug-in
 
 The `sfAdTailyPlugin` offers the integrate with [AdTaily](http://www.adtaily.com/).
 
-## Instalation ##
+## Instalation
 
   * Install the plugin:
 
@@ -21,7 +21,7 @@ The `sfAdTailyPlugin` offers the integrate with [AdTaily](http://www.adtaily.com
 
         $ symfony cc
 
-## Configuration ##
+## Configuration
 
   * Configuration is done in your application's app.yml file:
 
@@ -30,7 +30,7 @@ The `sfAdTailyPlugin` offers the integrate with [AdTaily](http://www.adtaily.com
             enabled: true
             code:    xxxxxx
 
-## Use ##
+## Use
 
 Insert in your template:
 
